@@ -37,7 +37,7 @@ After conducting our analysis on the election data, we determined that:
 <br><br>
 - Diana DeGette was declared the winner
 <br><br>
-### All above analysis can be seen in the image below<br>
+#### All above analysis can be seen in the image below<br>
 ![VBA 2017 Screenshot](./analysis/election_results.png) 
 
 
